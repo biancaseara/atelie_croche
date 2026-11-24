@@ -1,0 +1,22 @@
+{
+  "name": "Ateliê Crochê",
+  "short_name": "Crochê",
+  "description": "Gestão de sessões, tempo e precificação de crochê",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f43f5e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9906/9906669.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9906/9906669.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
